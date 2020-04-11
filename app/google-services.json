@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "764237342590",
+    "firebase_url": "https://driver-and-rider-project.firebaseio.com",
+    "project_id": "driver-and-rider-project",
+    "storage_bucket": "driver-and-rider-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764237342590:android:d5ed5bbe566811e801752f",
+        "android_client_info": {
+          "package_name": "com.barmej.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764237342590-t0hm0v870c99ca9gv9tbch2jbjnuacub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX4MjUNhiKBarFBULYC1PJkbSG_N6FYZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764237342590-t0hm0v870c99ca9gv9tbch2jbjnuacub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764237342590:android:22e043323fdac81201752f",
+        "android_client_info": {
+          "package_name": "com.barmej.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764237342590-t0hm0v870c99ca9gv9tbch2jbjnuacub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX4MjUNhiKBarFBULYC1PJkbSG_N6FYZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764237342590-t0hm0v870c99ca9gv9tbch2jbjnuacub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

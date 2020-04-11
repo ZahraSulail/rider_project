@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rider App</string>
+    <string name="location_permission_needed">Location permissin neede</string>
+    <string name="select_pickup">Select Pick Up</string>
+    <string name="select_destination">Select Destination</string>
+    <string name="request_trip">Request a Trip</string>
+    <string name="finding_driver">Finding Driver</string>
+    <string name="no_available_drivers">No Available Drivers</string>
+    <string name="ok">Ok</string>
+    <string name="driver_going_to_pickup">Driver going to pickup</string>
+    <string name="driver_going_to_destination">Driver going to destination</string>
+    <string name="driver_arrived">Driver arrived</string>
+    <string name="my_trip">My Trip</string>
+    <string name="information_load">Information Load</string>
+    <string name="error_loading_data">Error Loading Data</string>
+    <string name="you_have_arrived">You Have Arrived</string>
+</resources>
